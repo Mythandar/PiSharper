@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiSharper", "PiSharper\PiSharper.csproj", "{E93EB756-DC5F-4B12-BAF2-391003447347}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiSharperLib", "PiSharper\PiSharperLib.csproj", "{E93EB756-DC5F-4B12-BAF2-391003447347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiSharper Testing Program", "PiSharper Testing Program\PiSharper Testing Program.csproj", "{87FDE0AA-5119-4A72-87D1-89EA948630A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E93EB756-DC5F-4B12-BAF2-391003447347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E93EB756-DC5F-4B12-BAF2-391003447347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E93EB756-DC5F-4B12-BAF2-391003447347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FDE0AA-5119-4A72-87D1-89EA948630A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FDE0AA-5119-4A72-87D1-89EA948630A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FDE0AA-5119-4A72-87D1-89EA948630A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FDE0AA-5119-4A72-87D1-89EA948630A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
